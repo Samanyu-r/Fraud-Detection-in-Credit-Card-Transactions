@@ -1,7 +1,7 @@
 # Fraud-Detection-in-Credit-Card-Transactions
 
 # Case and Data Description
-This project aimed to build an effective and efficient model to predict transaction fraud. The analyzed dataset contains a list of government-related credit card transactions over the 2010 calendar year. The data presented a supervised problem containing the fraud label and attributes such as credit card number, merchant, merchant state, etc. The dataset had 96,753 records and 10 data fields. There were nine categorical variables and one numeric variable. Many of the variables had a right-skewed distribution. Overall, the dataset had 1,059 fraudulent transactions of the total 96,753 records (1.09%). This project focused on the ‘purchase’ transactions.
+This project aimed to build an effective and efficient model to predict transaction fraud. The analyzed dataset contains a list of government-related credit card transactions over the 2010 calendar year. The data presented a supervised problem containing the fraud label and attributes such as credit card number, merchant, merchant state, etc. The dataset had 96,753 records and 10 data fields. There were nine categorical variables and one numeric variable. EDA revealed that the dataset is imbalanced as many of the variables had a right-skewed distribution. Overall, the dataset had 1,059 fraudulent transactions of the total 96,753 records (1.09%). This project focused on the ‘purchase’ transactions.
 
 # Approach
 Step 1: Exploratory data analysis and Data Cleaning
